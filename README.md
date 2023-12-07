@@ -89,7 +89,7 @@ BERT의 성능을 generalize 하기 위해 다음의 방식을 적용한다.
     - Document Rotation
         - selected pivot : front, remainder : rotated
         
-        ![Untitled](source/Untitled%204.png)
+        ![Untitled](./source/Untitled%204.png)
         
 
 ## Fine-tuning
