@@ -54,6 +54,7 @@ BERT의 성능을 generalize 하기 위해 다음의 방식을 적용한다.
             - what is feed-forward network
                 
                 ![Untitled](./source/Untitled%203.png)
+              ![Untitled](./source/Untitled%203.png)
                 
                 Feed Forward neural network helps a lot in finding the more contextual information related to particular pairs of words in sequences . It is not very clear why we need another feed forward network if we already have an attention layer which does the same job but it helps to improve the accuracy of the model you can see [here](https://youtu.be/YIEe7d7YqaU)
                  if you wanna know more detail about it.
